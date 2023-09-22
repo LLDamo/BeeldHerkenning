@@ -1,0 +1,3 @@
+/home/bigtasty/Documents/School/WoR/Robot/BeeldHerkenning/CMakeFiles/ImageRecognition.dir
+/home/bigtasty/Documents/School/WoR/Robot/BeeldHerkenning/CMakeFiles/edit_cache.dir
+/home/bigtasty/Documents/School/WoR/Robot/BeeldHerkenning/CMakeFiles/rebuild_cache.dir
